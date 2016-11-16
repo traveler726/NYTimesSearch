@@ -9,6 +9,8 @@ import android.webkit.WebViewClient;
 import com.example.jjbeck.nytimessearch.R;
 import com.example.jjbeck.nytimessearch.models.Article;
 
+import org.parceler.Parcels;
+
 public class ArticleActivity extends AppCompatActivity {
 
     @Override
@@ -20,7 +22,8 @@ public class ArticleActivity extends AppCompatActivity {
 
         // get the article's web url passed in
         //String url = getIntent().getExtras().getString(SearchActivity.INTENT_EXTRA_URL);
-        Article article = (Article) getIntent().getExtras().getSerializable(SearchActivity.INTENT_EXTRA_ARTICLE);
+        // Article article = (Article) getIntent().getExtras().getSerializable(SearchActivity.INTENT_EXTRA_ARTICLE);
+        Article article = (Article) Parcels.unwrap(getIntent().getParcelableExtra(SearchActivity.INTENT_EXTRA_ARTICLE));
 
         WebView wvArticle = (WebView) findViewById(R.id.wvArticle);
 

@@ -3,28 +3,29 @@ package com.example.jjbeck.nytimessearch.models;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.parceler.Parcel;
 
-import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
  * Created by jjbeck on 11/15/16.
  */
 
-public class Article implements Serializable{
+@Parcel
+public class Article {
 
     public static String NYTimesDomain = "http://www.nytimes.com/";
     public static String EMPTY_STRING  = "";
 
-    private String webUrl;
-    private String headline;
-    private String thumbnail;
+    // fields must be public for Parcel reflection to work!
+    public String webUrl;
+    public String headline;
+    public String thumbnail;
 
     /* --------------------------------------------------
-       Hide the default constructor -
-       only construct from json objects for now!
+       empty constructor needed by the Parceler library
        ---------------------------------------------------*/
-    protected Article() {}
+    public Article() {}
 
     /* --------------------------------------------------
         Construct object from a json object.

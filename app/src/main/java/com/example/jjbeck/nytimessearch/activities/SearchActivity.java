@@ -24,6 +24,7 @@ import com.loopj.android.http.RequestParams;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.parceler.Parcels;
 
 import java.util.ArrayList;
 
@@ -82,7 +83,8 @@ public class SearchActivity extends AppCompatActivity {
 
                 // pass the article into the intent (remember to now use Serializable)
                 //intent.putExtra(INTENT_EXTRA_URL, article.getWebUrl());
-                intent.putExtra(INTENT_EXTRA_ARTICLE, article);
+                //intent.putExtra(INTENT_EXTRA_ARTICLE, article); // when serializable
+                intent.putExtra(INTENT_EXTRA_ARTICLE, Parcels.wrap(article));
 
                 // launch the activity
                 startActivity(intent);
