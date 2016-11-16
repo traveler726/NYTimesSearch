@@ -1,0 +1,21 @@
+$ curl --head https://api.nytimes.com/svc/books/v3/lists/overview.json?api-key=b87a0671a5ae43d6921ca507e907f319
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Methods: GET, PUT, POST
+Access-Control-Allow-Origin: *
+Age: 0
+Content-Type: application/json; charset=UTF-8
+Date: Tue, 15 Nov 2016 22:47:15 GMT
+Server: Apache/2.2.15 (CentOS)
+Vary: Origin
+Via: kong/0.8.3
+X-Cache: MISS
+X-Kong-Proxy-Latency: 2
+X-Kong-Upstream-Latency: 431
+X-RateLimit-Limit-day: 1000
+X-RateLimit-Limit-second: 5
+X-RateLimit-Remaining-day: 998
+X-RateLimit-Remaining-second: 4
+X-Varnish: 2241154
+Connection: keep-alive
+

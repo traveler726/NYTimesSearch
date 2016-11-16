@@ -1,0 +1,692 @@
+{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.", 
+    "response": {
+        "docs": [
+            {
+                "_id": "56e0ea3e38f0d80718d563b2", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": null, 
+                "document_type": "topic", 
+                "headline": {
+                    "main": "Android"
+                }, 
+                "keywords": [], 
+                "lead_paragraph": "News about Android (Operating System), including commentary and archival articles published in The New York Times.", 
+                "multimedia": [], 
+                "news_desk": null, 
+                "print_page": null, 
+                "pub_date": null, 
+                "section_name": "Times Topics", 
+                "slideshow_credits": null, 
+                "snippet": "News about Android (Operating System), including commentary and archival articles published in The New York Times.", 
+                "source": null, 
+                "subsection_name": null, 
+                "type_of_material": "timestopic", 
+                "web_url": "http://topics.nytimes.com/topic/subject/android-operating-system", 
+                "word_count": "16"
+            }, 
+            {
+                "_id": "527ac73a38f0d86606634041", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": null, 
+                "document_type": "topic", 
+                "headline": {
+                    "main": "Android"
+                }, 
+                "keywords": [], 
+                "lead_paragraph": "News about Android (Operating System), including commentary and archival articles published in The New York Times.", 
+                "multimedia": [], 
+                "news_desk": null, 
+                "print_page": null, 
+                "pub_date": null, 
+                "section_name": "Times Topics", 
+                "slideshow_credits": null, 
+                "snippet": "News about Android (Operating System), including commentary and archival articles published in The New York Times.", 
+                "source": null, 
+                "subsection_name": null, 
+                "type_of_material": "timestopic", 
+                "web_url": "http://topics.nytimes.com/top/reference/timestopics/subjects/a/android/index.html", 
+                "word_count": "16"
+            }, 
+            {
+                "_id": "581a16d67c459f606398d2ac", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "original": "By J. D. BIERSDORFER", 
+                    "person": [
+                        {
+                            "firstname": "J.", 
+                            "organization": "", 
+                            "rank": 1, 
+                            "role": "reported"
+                        }
+                    ]
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "content_kicker": "Tech Tip", 
+                    "kicker": "Tech Tip", 
+                    "main": "How to Change the Way You Pay in Google Play"
+                }, 
+                "keywords": [
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "1", 
+                        "value": "Android (Operating System)"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "organizations", 
+                        "rank": "2", 
+                        "value": "Google Play"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "3", 
+                        "value": "Credit Cards"
+                    }
+                ], 
+                "lead_paragraph": "What to do if you need to remove or change your stored credit card — or want to switch to a different payment method entirely.", 
+                "multimedia": [
+                    {
+                        "height": 126, 
+                        "legacy": {
+                            "wide": "images/2016/11/03/technology/personaltech/03techtipwebART/03techtipwebART-thumbWide.jpg", 
+                            "wideheight": "126", 
+                            "widewidth": "190"
+                        }, 
+                        "subtype": "wide", 
+                        "type": "image", 
+                        "url": "images/2016/11/03/technology/personaltech/03techtipwebART/03techtipwebART-thumbWide.jpg", 
+                        "width": 190
+                    }, 
+                    {
+                        "height": 960, 
+                        "legacy": {
+                            "xlarge": "images/2016/11/03/technology/personaltech/03techtipwebART/03techtipwebART-articleLarge.jpg", 
+                            "xlargeheight": "960", 
+                            "xlargewidth": "600"
+                        }, 
+                        "subtype": "xlarge", 
+                        "type": "image", 
+                        "url": "images/2016/11/03/technology/personaltech/03techtipwebART/03techtipwebART-articleLarge.jpg", 
+                        "width": 600
+                    }, 
+                    {
+                        "height": 75, 
+                        "legacy": {
+                            "thumbnail": "images/2016/11/03/technology/personaltech/03techtipwebART/03techtipwebART-thumbStandard.jpg", 
+                            "thumbnailheight": "75", 
+                            "thumbnailwidth": "75"
+                        }, 
+                        "subtype": "thumbnail", 
+                        "type": "image", 
+                        "url": "images/2016/11/03/technology/personaltech/03techtipwebART/03techtipwebART-thumbStandard.jpg", 
+                        "width": 75
+                    }
+                ], 
+                "news_desk": "Business", 
+                "print_page": null, 
+                "pub_date": "2016-11-02T16:39:40Z", 
+                "section_name": "Technology", 
+                "slideshow_credits": null, 
+                "snippet": "What to do if you need to remove or change your stored credit card — or want to switch to a different payment method entirely.", 
+                "source": "The New York Times", 
+                "subsection_name": "Personal Tech", 
+                "type_of_material": "Question", 
+                "web_url": "http://www.nytimes.com/2016/11/03/technology/personaltech/how-to-change-the-way-you-pay-in-google-play.html", 
+                "word_count": "270"
+            }, 
+            {
+                "_id": "57fd9ee47c459f6063989313", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "organization": "REUTERS", 
+                    "original": "By REUTERS", 
+                    "person": []
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "main": "Samsung Phone Recall Portends Android Turf War", 
+                    "print_headline": "Samsung Phone Recall Portends Android Turf War"
+                }, 
+                "keywords": [], 
+                "lead_paragraph": "Samsung Electronics&#8217;s abandonment of the Galaxy Note 7 due to safety concerns will likely touch off a turf war among Android smartphone makers, analysts said, presenting them a rare opportunity to gain share but with less room for arch rival Apple Inc.", 
+                "multimedia": [], 
+                "news_desk": "None", 
+                "print_page": null, 
+                "pub_date": "2016-10-12T02:22:57Z", 
+                "section_name": "Technology", 
+                "slideshow_credits": null, 
+                "snippet": "Samsung Electronics&#8217;s abandonment of the Galaxy Note 7 due to safety concerns will likely touch off a turf war among Android smartphone makers, analysts said, presenting them a rare opportunity to gain share but with less room for arch rival...", 
+                "source": "", 
+                "subsection_name": null, 
+                "type_of_material": "News", 
+                "web_url": "http://www.nytimes.com/reuters/2016/10/11/technology/11reuters-samsung-recall-rivals.html", 
+                "word_count": null
+            }, 
+            {
+                "_id": "582200c67c459f6a5fccce1a", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "original": "By J. D. BIERSDORFER", 
+                    "person": [
+                        {
+                            "firstname": "J.", 
+                            "organization": "", 
+                            "rank": 1, 
+                            "role": "reported"
+                        }
+                    ]
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "content_kicker": "Tech Tip", 
+                    "kicker": "Tech Tip", 
+                    "main": "Make Your Phone Easier to Read", 
+                    "print_headline": "Make Your Phone Easier to Read"
+                }, 
+                "keywords": [
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "1", 
+                        "value": "Smartphones"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "2", 
+                        "value": "iOS (Operating System)"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "3", 
+                        "value": "Android (Operating System)"
+                    }
+                ], 
+                "lead_paragraph": "If you find yourself squinting to read mail and web pages on your smartphone, you can bump up the font size to give your eyes a break.", 
+                "multimedia": [
+                    {
+                        "height": 126, 
+                        "legacy": {
+                            "wide": "images/2016/11/09/technology/personaltech/09techtipwebART/09techtipwebART-thumbWide.jpg", 
+                            "wideheight": "126", 
+                            "widewidth": "190"
+                        }, 
+                        "subtype": "wide", 
+                        "type": "image", 
+                        "url": "images/2016/11/09/technology/personaltech/09techtipwebART/09techtipwebART-thumbWide.jpg", 
+                        "width": 190
+                    }, 
+                    {
+                        "height": 1067, 
+                        "legacy": {
+                            "xlarge": "images/2016/11/09/technology/personaltech/09techtipwebART/09techtipwebART-articleLarge.jpg", 
+                            "xlargeheight": "1067", 
+                            "xlargewidth": "600"
+                        }, 
+                        "subtype": "xlarge", 
+                        "type": "image", 
+                        "url": "images/2016/11/09/technology/personaltech/09techtipwebART/09techtipwebART-articleLarge.jpg", 
+                        "width": 600
+                    }, 
+                    {
+                        "height": 75, 
+                        "legacy": {
+                            "thumbnail": "images/2016/11/09/technology/personaltech/09techtipwebART/09techtipwebART-thumbStandard.jpg", 
+                            "thumbnailheight": "75", 
+                            "thumbnailwidth": "75"
+                        }, 
+                        "subtype": "thumbnail", 
+                        "type": "image", 
+                        "url": "images/2016/11/09/technology/personaltech/09techtipwebART/09techtipwebART-thumbStandard.jpg", 
+                        "width": 75
+                    }
+                ], 
+                "news_desk": "Business", 
+                "print_page": "4", 
+                "pub_date": "2016-11-08T16:43:44Z", 
+                "section_name": "Technology", 
+                "slideshow_credits": null, 
+                "snippet": "If you find yourself squinting to read mail and web pages on your smartphone, you can bump up the font size to give your eyes a break.", 
+                "source": "The New York Times", 
+                "subsection_name": "Personal Tech", 
+                "type_of_material": "Question", 
+                "web_url": "http://www.nytimes.com/2016/11/09/technology/personaltech/make-your-phone-easier-to-read.html", 
+                "word_count": "321"
+            }, 
+            {
+                "_id": "57ffb2917c459f606398986d", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "original": "By J. D. BIERSDORFER", 
+                    "person": [
+                        {
+                            "firstname": "J.", 
+                            "organization": "", 
+                            "rank": 1, 
+                            "role": "reported"
+                        }
+                    ]
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "content_kicker": "Tech Tip", 
+                    "kicker": "Tech Tip", 
+                    "main": "Move Android Photos to Your Mac"
+                }, 
+                "keywords": [
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "1", 
+                        "value": "Mobile Applications"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "2", 
+                        "value": "Photography"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "3", 
+                        "value": "Google Phone"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "4", 
+                        "value": "Smartphones"
+                    }
+                ], 
+                "lead_paragraph": "There are many ways to transfer pictures from a Google-based phone to an Apple computer.", 
+                "multimedia": [
+                    {
+                        "height": 126, 
+                        "legacy": {
+                            "wide": "images/2016/10/14/technology/personaltech/14techtipwebART/14techtipwebART-thumbWide.jpg", 
+                            "wideheight": "126", 
+                            "widewidth": "190"
+                        }, 
+                        "subtype": "wide", 
+                        "type": "image", 
+                        "url": "images/2016/10/14/technology/personaltech/14techtipwebART/14techtipwebART-thumbWide.jpg", 
+                        "width": 190
+                    }, 
+                    {
+                        "height": 460, 
+                        "legacy": {
+                            "xlarge": "images/2016/10/14/technology/personaltech/14techtipwebART/14techtipwebART-articleLarge.jpg", 
+                            "xlargeheight": "460", 
+                            "xlargewidth": "600"
+                        }, 
+                        "subtype": "xlarge", 
+                        "type": "image", 
+                        "url": "images/2016/10/14/technology/personaltech/14techtipwebART/14techtipwebART-articleLarge.jpg", 
+                        "width": 600
+                    }, 
+                    {
+                        "height": 75, 
+                        "legacy": {
+                            "thumbnail": "images/2016/10/14/technology/personaltech/14techtipwebART/14techtipwebART-thumbStandard.jpg", 
+                            "thumbnailheight": "75", 
+                            "thumbnailwidth": "75"
+                        }, 
+                        "subtype": "thumbnail", 
+                        "type": "image", 
+                        "url": "images/2016/10/14/technology/personaltech/14techtipwebART/14techtipwebART-thumbStandard.jpg", 
+                        "width": 75
+                    }
+                ], 
+                "news_desk": "Business", 
+                "print_page": null, 
+                "pub_date": "2016-10-14T04:00:00Z", 
+                "section_name": "Technology", 
+                "slideshow_credits": null, 
+                "snippet": "There are many ways to transfer pictures from a Google-based phone to an Apple computer.", 
+                "source": "", 
+                "subsection_name": "Personal Tech", 
+                "type_of_material": "Question", 
+                "web_url": "http://www.nytimes.com/2016/10/14/technology/personaltech/move-android-photos-to-your-mac.html", 
+                "word_count": null
+            }, 
+            {
+                "_id": "58061cec7c459f606398a559", 
+                "abstract": "Tech Fix column; Google introduces its Pixel, first smartphone with search behemoth's name; Android fans will like phone, but it is not great, with only mediocre camera.", 
+                "blog": [], 
+                "byline": {
+                    "original": "By BRIAN X. CHEN", 
+                    "person": [
+                        {
+                            "firstname": "Brian", 
+                            "lastname": "CHEN", 
+                            "middlename": "X.", 
+                            "organization": "", 
+                            "rank": 1, 
+                            "role": "reported"
+                        }
+                    ]
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "content_kicker": "Tech Fix", 
+                    "kicker": "Tech Fix", 
+                    "main": "Google Pixel Review: Assessing the New Smartphone", 
+                    "print_headline": "It’s Not Great, but Android Fans Probably Won’t Mind"
+                }, 
+                "keywords": [
+                    {
+                        "is_major": "Y", 
+                        "name": "organizations", 
+                        "rank": "1", 
+                        "value": "Google Inc"
+                    }, 
+                    {
+                        "is_major": "Y", 
+                        "name": "subject", 
+                        "rank": "2", 
+                        "value": "Smartphones"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "3", 
+                        "value": "Mobile Applications"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "4", 
+                        "value": "Android (Operating System)"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "5", 
+                        "value": "iPhone"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "organizations", 
+                        "rank": "6", 
+                        "value": "Apple Inc"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "organizations", 
+                        "rank": "7", 
+                        "value": "Samsung Group"
+                    }
+                ], 
+                "lead_paragraph": "The Pixel, which uses Android software and Assistant, an A.I. virtual assistant, is, relatively speaking, mediocre, but fans of Android won’t regret buying one.", 
+                "multimedia": [
+                    {
+                        "height": 126, 
+                        "legacy": {
+                            "wide": "images/2016/10/18/business/20techfix-1/20techfix-1-thumbWide-v2.jpg", 
+                            "wideheight": "126", 
+                            "widewidth": "190"
+                        }, 
+                        "subtype": "wide", 
+                        "type": "image", 
+                        "url": "images/2016/10/18/business/20techfix-1/20techfix-1-thumbWide-v2.jpg", 
+                        "width": 190
+                    }, 
+                    {
+                        "height": 342, 
+                        "legacy": {
+                            "xlarge": "images/2016/10/18/business/20techfix-1/20techfix-1-articleLarge.jpg", 
+                            "xlargeheight": "342", 
+                            "xlargewidth": "600"
+                        }, 
+                        "subtype": "xlarge", 
+                        "type": "image", 
+                        "url": "images/2016/10/18/business/20techfix-1/20techfix-1-articleLarge.jpg", 
+                        "width": 600
+                    }, 
+                    {
+                        "height": 75, 
+                        "legacy": {
+                            "thumbnail": "images/2016/10/18/business/20techfix-1/20techfix-1-thumbStandard-v2.jpg", 
+                            "thumbnailheight": "75", 
+                            "thumbnailwidth": "75"
+                        }, 
+                        "subtype": "thumbnail", 
+                        "type": "image", 
+                        "url": "images/2016/10/18/business/20techfix-1/20techfix-1-thumbStandard-v2.jpg", 
+                        "width": 75
+                    }
+                ], 
+                "news_desk": "Business", 
+                "print_page": "6", 
+                "pub_date": "2016-10-18T13:00:17Z", 
+                "section_name": "Technology", 
+                "slideshow_credits": null, 
+                "snippet": "The Pixel, which uses Android software and Assistant, an A.I. virtual assistant, is, relatively speaking, mediocre, but fans of Android won’t regret buying one.", 
+                "source": "", 
+                "subsection_name": "Personal Tech", 
+                "type_of_material": "News", 
+                "web_url": "http://www.nytimes.com/2016/10/20/technology/personaltech/google-pixel-review-assessing-the-new-smartphone.html", 
+                "word_count": null
+            }, 
+            {
+                "_id": "57f5290c7c459f60639880f1", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "original": "By J. D. BIERSDORFER", 
+                    "person": [
+                        {
+                            "firstname": "J.", 
+                            "organization": "", 
+                            "rank": 1, 
+                            "role": "reported"
+                        }
+                    ]
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "content_kicker": "Tech Tip", 
+                    "kicker": "Tech Tip", 
+                    "main": "Keep Tabs on Android App Permissions"
+                }, 
+                "keywords": [
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "1", 
+                        "value": "Android (Operating System)"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "2", 
+                        "value": "Mobile Applications"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "organizations", 
+                        "rank": "3", 
+                        "value": "Twitter"
+                    }, 
+                    {
+                        "is_major": "N", 
+                        "name": "subject", 
+                        "rank": "4", 
+                        "value": "Smartphones"
+                    }
+                ], 
+                "lead_paragraph": "Some apps want to use more of your device’s hardware and software than others, but many have their reasons.", 
+                "multimedia": [
+                    {
+                        "height": 126, 
+                        "legacy": {
+                            "wide": "images/2016/10/06/technology/personaltech/06techtipwebART/06techtipwebART-thumbWide.jpg", 
+                            "wideheight": "126", 
+                            "widewidth": "190"
+                        }, 
+                        "subtype": "wide", 
+                        "type": "image", 
+                        "url": "images/2016/10/06/technology/personaltech/06techtipwebART/06techtipwebART-thumbWide.jpg", 
+                        "width": 190
+                    }, 
+                    {
+                        "height": 960, 
+                        "legacy": {
+                            "xlarge": "images/2016/10/06/technology/personaltech/06techtipwebART/06techtipwebART-articleLarge.jpg", 
+                            "xlargeheight": "960", 
+                            "xlargewidth": "600"
+                        }, 
+                        "subtype": "xlarge", 
+                        "type": "image", 
+                        "url": "images/2016/10/06/technology/personaltech/06techtipwebART/06techtipwebART-articleLarge.jpg", 
+                        "width": 600
+                    }, 
+                    {
+                        "height": 75, 
+                        "legacy": {
+                            "thumbnail": "images/2016/10/06/technology/personaltech/06techtipwebART/06techtipwebART-thumbStandard.jpg", 
+                            "thumbnailheight": "75", 
+                            "thumbnailwidth": "75"
+                        }, 
+                        "subtype": "thumbnail", 
+                        "type": "image", 
+                        "url": "images/2016/10/06/technology/personaltech/06techtipwebART/06techtipwebART-thumbStandard.jpg", 
+                        "width": 75
+                    }
+                ], 
+                "news_desk": "Business", 
+                "print_page": null, 
+                "pub_date": "2016-10-06T04:00:00Z", 
+                "section_name": "Technology", 
+                "slideshow_credits": null, 
+                "snippet": "Some apps want to use more of your device’s hardware and software than others, but many have their reasons.", 
+                "source": "", 
+                "subsection_name": "Personal Tech", 
+                "type_of_material": "Question", 
+                "web_url": "http://www.nytimes.com/2016/10/06/technology/personaltech/keep-tabs-on-android-app-permissions.html", 
+                "word_count": null
+            }, 
+            {
+                "_id": "58247e3e7c459f6a5fccd415", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "organization": "REUTERS", 
+                    "original": "By REUTERS", 
+                    "person": []
+                }, 
+                "document_type": "article", 
+                "headline": {
+                    "main": "Google Lawyer Says Android Helps Rather Than Harms Competition", 
+                    "print_headline": "Google Lawyer Says Android Helps Rather Than Harms Competition"
+                }, 
+                "keywords": [], 
+                "lead_paragraph": "Google's Android mobile operating system boosts competition rather than hurts it, the company's general counsel said on Thursday, in a rebuttal of EU antitrust charges that it uses the platform to crush rivals.", 
+                "multimedia": [], 
+                "news_desk": null, 
+                "print_page": null, 
+                "pub_date": "2016-11-10T14:03:31Z", 
+                "section_name": "Business Day", 
+                "slideshow_credits": null, 
+                "snippet": "Google's Android mobile operating system boosts competition rather than hurts it, the company's general counsel said on Thursday, in a rebuttal of EU antitrust charges that it uses the platform to crush rivals.", 
+                "source": "Reuters", 
+                "subsection_name": null, 
+                "type_of_material": "News", 
+                "web_url": "http://www.nytimes.com/reuters/2016/11/10/business/10reuters-eu-google-antitrust.html", 
+                "word_count": "404"
+            }, 
+            {
+                "_id": "54a4ee8238f0d83a07dc5f31", 
+                "abstract": null, 
+                "blog": [], 
+                "byline": {
+                    "original": "Media Home Entertainment", 
+                    "person": [
+                        {
+                            "firstname": "Media", 
+                            "lastname": "Entertainment", 
+                            "middlename": "Home", 
+                            "organization": "", 
+                            "rank": 1, 
+                            "role": "reported"
+                        }
+                    ]
+                }, 
+                "document_type": "multimedia", 
+                "headline": {
+                    "main": "Android"
+                }, 
+                "keywords": [], 
+                "lead_paragraph": "In an isolated space station, an android displays a very human response upon discovering that he is about to be shut down.", 
+                "multimedia": [
+                    {
+                        "height": 126, 
+                        "legacy": {
+                            "wide": "images/2014/03/21/movies/video-android/video-android-thumbWide.jpg", 
+                            "wideheight": "126", 
+                            "widewidth": "190"
+                        }, 
+                        "subtype": "wide", 
+                        "type": "image", 
+                        "url": "images/2014/03/21/movies/video-android/video-android-thumbWide.jpg", 
+                        "width": 190
+                    }, 
+                    {
+                        "height": 338, 
+                        "legacy": {
+                            "xlarge": "images/2014/03/21/movies/video-android/video-android-articleLarge.jpg", 
+                            "xlargeheight": "338", 
+                            "xlargewidth": "600"
+                        }, 
+                        "subtype": "xlarge", 
+                        "type": "image", 
+                        "url": "images/2014/03/21/movies/video-android/video-android-articleLarge.jpg", 
+                        "width": 600
+                    }, 
+                    {
+                        "height": 75, 
+                        "legacy": {
+                            "thumbnail": "images/2014/03/21/movies/video-android/video-android-thumbStandard.jpg", 
+                            "thumbnailheight": "75", 
+                            "thumbnailwidth": "75"
+                        }, 
+                        "subtype": "thumbnail", 
+                        "type": "image", 
+                        "url": "images/2014/03/21/movies/video-android/video-android-thumbStandard.jpg", 
+                        "width": 75
+                    }
+                ], 
+                "news_desk": "Movies", 
+                "print_page": null, 
+                "pub_date": "2015-01-01T01:51:39Z", 
+                "section_name": "Movies", 
+                "slideshow_credits": null, 
+                "snippet": "In an isolated space station, an android displays a very human response upon discovering that he is about to be shut down.", 
+                "source": "Internet Video Archive", 
+                "subsection_name": null, 
+                "type_of_material": "Video", 
+                "web_url": "http://www.nytimes.com/video/movies/100000003287414/android.html", 
+                "word_count": "22"
+            }
+        ], 
+        "meta": {
+            "hits": 7240, 
+            "offset": 0, 
+            "time": 13
+        }
+    }, 
+    "status": "OK"
+}
