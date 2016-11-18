@@ -17,8 +17,7 @@ public class ArticleActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        setupToolbar();
 
         // get the article's web url passed in
         //String url = getIntent().getExtras().getString(SearchActivity.INTENT_EXTRA_URL);
@@ -43,6 +42,11 @@ public class ArticleActivity extends AppCompatActivity {
         });
 
         wvArticle.loadUrl(article.getWebUrl());
+    }
+
+    private void setupToolbar() {
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
     }
 
 }
